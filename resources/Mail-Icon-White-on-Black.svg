@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg4776"
+   sodipodi:docname="Mail-Icon-White-on-Black.svg"
+   viewBox="0 0 300 300"
+   version="1.1"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   width="100%"
+   height="100%"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="705"
+     inkscape:window-maximized="1"
+     inkscape:zoom="7.9195959"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="12.753176"
+     inkscape:cy="25.506352"
+     inkscape:window-width="1366"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-231.54,-375.82)">
+    <path
+       id="path3794"
+       style="color:#000000;fill:#404040;stroke-width:0.0697088;fill-opacity:1"
+       d="M 248.08297 382.37078 A 10 10.000001 0 0 0 238.08297 392.37078 A 10 10.000001 0 0 0 248.08297 402.37078 A 10 10.000001 0 0 0 258.08297 392.37078 A 10 10.000001 0 0 0 248.08297 382.37078 z M 242.46969 387.94305 L 253.69625 387.94305 C 253.97026 387.94303 254.1943 388.16693 254.1943 388.44109 L 254.1943 396.29852 C 254.19443 396.57277 253.97063 396.79854 253.69625 396.79852 L 242.46969 396.79852 C 242.19534 396.79854 241.96958 396.57274 241.96969 396.29852 L 241.96969 388.44109 C 241.96966 388.16692 242.19568 387.94303 242.46969 387.94305 z M 243.79781 389.13641 L 248.08102 392.87664 L 252.36422 389.13641 L 243.79781 389.13641 z M 253.19625 389.73211 L 250.06539 392.46844 L 253.19625 395.25945 L 253.19625 389.73211 z M 242.96773 389.73406 L 242.96773 395.2868 L 246.11227 392.48211 L 242.96773 389.73406 z M 249.30953 393.12859 L 248.40914 393.9157 C 248.22189 394.07915 247.94011 394.07916 247.75289 393.9157 L 246.87008 393.14422 L 243.90719 395.78484 L 252.28805 395.78484 L 249.30953 393.12859 z "
+       inkscape:export-filename="email.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="layer1-7"
+       inkscape:label="Calque 1"
+       transform="matrix(0.26620611,0,0,0.26622024,124.02629,244.35492)"
+       style="fill:#ffffff"
+       inkscape:export-filename="email.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g6564"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\lguyot\Desktop\icon-email.png"
+         transform="translate(-560.19,271.89)"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Rygle</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title />
+        <dc:date>2015-03-29</dc:date>
+        <dc:description />
+        <dc:source />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Rygle</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>mail</rdf:li>
+            <rdf:li>snail</rdf:li>
+            <rdf:li>communication</rdf:li>
+            <rdf:li>communicate</rdf:li>
+            <rdf:li>address</rdf:li>
+            <rdf:li>envelope</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

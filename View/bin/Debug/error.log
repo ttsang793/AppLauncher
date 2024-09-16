@@ -1,0 +1,24 @@
+
+01/23/24 - 06:17:37 --------------------------------------------------------
+[6:17:37-0]	File "sys/constants.xml" not found.
+iFile* cFileManager::open(const String &_name)
+cXML::cXML(const String &_filename)
+cFileManager::cFileManager(const String &_root_directory, const String &_package_extention)
+cEngine::cEngine(sContext &_context)
+Restart the game please.
+
+01/23/24 - 06:17:46 --------------------------------------------------------
+[6:17:46-0]	File "sys/constants.xml" not found.
+iFile* cFileManager::open(const String &_name)
+cXML::cXML(const String &_filename)
+cFileManager::cFileManager(const String &_root_directory, const String &_package_extention)
+cEngine::cEngine(sContext &_context)
+Restart the game please.
+
+01/23/24 - 06:18:01 --------------------------------------------------------
+[6:18:1-0]	File "sys/constants.xml" not found.
+iFile* cFileManager::open(const String &_name)
+cXML::cXML(const String &_filename)
+cFileManager::cFileManager(const String &_root_directory, const String &_package_extention)
+cEngine::cEngine(sContext &_context)
+Restart the game please.

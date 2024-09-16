@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="pro.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.33071229"
+     inkscape:cx="749.89652"
+     inkscape:cy="532.18463"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1955">
+      <rect
+         style="fill:#ffffff;stroke-width:1.77977;fill-opacity:1"
+         id="rect234"
+         width="150"
+         height="130"
+         x="2.6913044"
+         y="36.042984" />
+      <rect
+         style="fill:#000000;stroke-width:1.29977"
+         id="rect234-5"
+         width="130"
+         height="80"
+         x="12.691304"
+         y="76.042984" />
+      <rect
+         style="fill:#000000;stroke-width:0.649885"
+         id="rect234-5-2"
+         width="130"
+         height="20"
+         x="12.691304"
+         y="46.042984" />
+      <rect
+         style="fill:#ffffff;stroke-width:1.77977;fill-opacity:1"
+         id="rect234-6"
+         width="150"
+         height="130"
+         x="22.691"
+         y="16.042999" />
+      <rect
+         style="fill:#000000;stroke-width:1.29977"
+         id="rect234-5-7"
+         width="130"
+         height="80"
+         x="32.691002"
+         y="56.042999" />
+      <rect
+         style="fill:#000000;stroke-width:0.649885"
+         id="rect234-5-2-3"
+         width="130"
+         height="20"
+         x="32.691002"
+         y="26.042999" />
+      <text
+         xml:space="preserve"
+         style="font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.605"
+         x="97.708229"
+         y="121.29557"
+         id="text456"><tspan
+           sodipodi:role="line"
+           id="tspan454"
+           style="font-size:70.5556px;fill:#ffffff;stroke-width:1.605"
+           x="97.708229"
+           y="121.29557">&lt;/&gt;</tspan></text>
+      <g
+         aria-label="--"
+         id="text510"
+         style="font-size:70.5556px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:1.605"
+         transform="translate(4.525932,-1.5550547)">
+        <path
+           d="m 55.011596,37.580829 q 0,1.343588 -0.310058,1.860353 -0.310059,0.516764 -0.895726,0.516764 H 39.405303 q -0.620117,0 -0.930176,-0.516764 -0.310059,-0.551216 -0.310059,-1.860353 0,-1.309137 0.310059,-1.825902 0.310059,-0.516765 0.930176,-0.516765 h 14.400509 q 0.275608,0 0.482314,0.103353 0.241157,0.103353 0.378961,0.413412 0.172254,0.275608 0.241156,0.723471 0.103353,0.447862 0.103353,1.102431 z"
+           style="font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff;fill-opacity:1"
+           id="path556" />
+        <path
+           d="m 76.61236,37.580829 q 0,1.343588 -0.310059,1.860353 -0.310059,0.516764 -0.895726,0.516764 H 61.006067 q -0.620118,0 -0.930177,-0.516764 -0.310059,-0.551216 -0.310059,-1.860353 0,-1.309137 0.310059,-1.825902 0.310059,-0.516765 0.930177,-0.516765 h 14.400508 q 0.275608,0 0.482314,0.103353 0.241157,0.103353 0.378961,0.413412 0.172255,0.275608 0.241157,0.723471 0.103353,0.447862 0.103353,1.102431 z"
+           style="font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff;fill-opacity:1"
+           id="path558" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+D:\Launcher\DTO\bin\Debug\DTO.dll.config
+D:\Launcher\DTO\bin\Debug\DTO.dll
+D:\Launcher\DTO\bin\Debug\DTO.pdb
+D:\Launcher\DTO\bin\Debug\EntityFramework.dll
+D:\Launcher\DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Launcher\DTO\bin\Debug\System.Data.SQLite.dll
+D:\Launcher\DTO\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Launcher\DTO\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Launcher\DTO\bin\Debug\EntityFramework.xml
+D:\Launcher\DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Launcher\DTO\bin\Debug\System.Data.SQLite.xml
+D:\Launcher\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Launcher\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\Launcher\DTO\obj\Debug\DTO.dll
+D:\Launcher\DTO\obj\Debug\DTO.pdb
+D:\Launcher\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
